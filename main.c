@@ -1,13 +1,3 @@
-/*
-* Keros OS Project ( Kerim Operating System )
-* This code was written by Kerim BASOL
-* I am an embedded system programmer who is working on Microprocessor development
-* http://twitter.com/kerimbasol
-* Mail : kerim@bayner.com
-* Mobile : +90555221 30 39
-* URL : http://www.bayner.com
-*/
-
 #define DELAY_ANIMATION 7000
 static inline
 void lidt( void * base, unsigned short size )

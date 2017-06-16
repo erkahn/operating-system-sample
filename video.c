@@ -1,12 +1,3 @@
-/*
-* Keros OS Project ( Kerim Operating System )
-* This code was written by Kerim BASOL
-* I am an embedded system programmer who is working on Microprocessor development
-* http://twitter.com/kerimbasol
-* Mail : kerim@bayner.com
-* Mobile : +90555221 30 39
-* URL : http://www.bayner.com
-*/
 #define SCREEN_WIDTH 80
 #define SCREEN_HEIGHT 24
 #define SCREEN_MAX_CHAR 1920
